@@ -4051,12 +4051,12 @@ form .btn {
 }
 @media only screen and (min-width:992px) {
   .contact-form {
-    padding: 40px 35px;
+    padding: 100px 35px;
   }
 }
 @media only screen and (min-width:1200px) {
   .contact-form {
-    padding: 50px 45px;
+    padding: 100px 45px;
   }
 }
 .contact-form .contact-title {
