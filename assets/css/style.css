@@ -2249,6 +2249,7 @@ picture.jarallax-img img {
   padding-right: 30px;
   -webkit-transition: all 350ms;
   transition: all 350ms;
+  height: 500px;
 }
 @media only screen and (min-width:1200px) {
   .service-card {
